@@ -138,15 +138,7 @@ Not implemented. Can be extended into an AI chatbot in future.
 This system provides a simple, structured way to reflect on daily productivity and generate actionable improvements using deterministic logic.
 
 
----
 
-### 4. Click ✅ “Commit changes”
-
----
-
-### 5. Copy your repo link  
-Example:
-https://github.com/YadavBarkha/daily-reflection-decision-tree
 
 
 
