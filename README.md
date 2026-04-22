@@ -129,8 +129,9 @@ Only predefined inputs allowed (Yes/No, Distraction/Planning/Energy/Other)
 Fully rule-based logic (no AI randomness)
 No assumptions beyond user input
 Same input always gives same output
-🔹 Part B (Optional)
 
+
+🔹 Part B (Optional)
 Not implemented. Can be extended into an AI chatbot in future.
 
 🔹 Conclusion
